@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>GameBoy Advance Hacks</text>
+  </text>
+</view>    
+
+<view name="system">
+	  <text name="sys_line1" extra="true">
+   <text>GBA</text>
+  </text>
+ 
+  <text name="sys_line2" extra="true">
+   <text>Hacks</text>
+  </text>
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  32-bit Handheld Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Homebrew games for the Gameboy Advance</text>
+  </text>
+ </view>
+</theme>
